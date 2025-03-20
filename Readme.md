@@ -53,13 +53,30 @@ https://www.di.ens.fr/~nitulesc/files/Survey-SNARKs.pdf
 
 -  ***March 20, 2025*** : Theory : Polynomial commitments  
 Slideshow : [Link to the slideshow](https://docs.google.com/presentation/d/1_mum_pvMvNuH7kGdrPO7SOizPi1mUqOcpX4K2ne2ULE)  
-Recording :  
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=6MUT-Y-W7JQ&list=PL0MZ85B_96CF5Q56H60fIZOXZPJn0PQYk)
 Meetup: [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/306309519/)  
+Quiz :  
+
+    *Links and literature* :  
+Commitment schemes:
+https://medium.com/@icostan/commitment-schemes-8b523d48aa1e  
+Functional Commitments: ZK under a different lens  
+https://geometry.xyz/notebook/functional-commitments-zk-under-a-different-lens  
+Explaining KZG Commitment with Code Walkthrough  
+https://kaijuneer.medium.com/explaining-kzg-commitment-with-code-walkthrough-216638a620c9   
+Exploring Elliptic Curve Pairings  
+https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627   
+Fiat-Shamir transformation  
+https://www.zkdocs.com/docs/zkdocs/protocol-primitives/fiat-shamir/   
+
 
 -  ***Aptil 17, 2025*** : Theory : Interactive oracle proofs  
-Slideshow :  
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1UtF7mVb5IvRH7EIuuHlb1Wquq_UTE8vO7coxwoEvkoU)  
 Recording :  
-Meetup:  
+Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/306831819/)  
+Quiz : 
+
+    *Links and literature* :  
 
 -  ***May 22, 2025*** : Programming : Basics of Circom  
 Slideshow :  
