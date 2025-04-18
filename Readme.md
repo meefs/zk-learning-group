@@ -72,16 +72,31 @@ https://www.zkdocs.com/docs/zkdocs/protocol-primitives/fiat-shamir/
 
 -  ***Aptil 17, 2025*** : Theory : Interactive oracle proofs  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1UtF7mVb5IvRH7EIuuHlb1Wquq_UTE8vO7coxwoEvkoU)  
-Recording :  
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=6MUT-Y-W7JQ&list=PL0MZ85B_96CF5Q56H60fIZOXZPJn0PQYk)   
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/306831819/)  
 Quiz : 
 
     *Links and literature* :  
+A guide to Zero Knowledge Proofs (Part 2)   
+https://medium.com/@Luca_Franceschini/a-guide-to-zero-knowledge-proofs-part-2-7904dee9758d   
+Interactive Oracle Proofs  
+https://www.iacr.org/archive/tcc2016b/99850156/99850156.pdf   
+What is PLONK  
+https://medium.com/@Luca_Franceschini/what-is-plonk-29c56f326cf6   
+Plonk Interactive Oracle Proofs (IOP)  
+https://hackmd.io/@0xsachink/ByuqZfD63   
+Proofs, Arguments, and Zero-Knowledge, Chapter 4  
+https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf   
+
 
 -  ***May 22, 2025*** : Programming : Basics of Circom  
-Slideshow :  
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1YOkgQ08BxTZbNlIihFpBWaWUtQ0zrBVW2b7JWcdZseQ)    
 Recording :  
-Meetup:  
+Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/307268483/)  
+Quiz : 
+
+    *Links and literature* :  
+
 
 -  ***June 19, 2025*** : Programming : Circom advanced  
 Slideshow :  
