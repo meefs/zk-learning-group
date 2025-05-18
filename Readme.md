@@ -89,7 +89,7 @@ Proofs, Arguments, and Zero-Knowledge, Chapter 4
 https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf   
 
 
--  ***May 22, 2025*** : Programming : Basics of Circom  
+-  ***May 29, 2025*** : Programming : Basics of Circom  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1YOkgQ08BxTZbNlIihFpBWaWUtQ0zrBVW2b7JWcdZseQ)    
 Recording :  
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/307268483/)  
