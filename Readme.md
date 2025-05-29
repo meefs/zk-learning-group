@@ -91,7 +91,7 @@ https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf
 
 -  ***May 29, 2025*** : Programming : Basics of Circom  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/1YOkgQ08BxTZbNlIihFpBWaWUtQ0zrBVW2b7JWcdZseQ)    
-Recording :  
+Recording :  [Link to the recording](https://www.youtube.com/watch?v=6DqvptiEQGM)
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/307268483/)  
 Code : /circom_basic  
 Quiz (developer challenge) : Create a proof that an output is the 10th series of a Fibonacci like series of two hidden (private) starting elements of the series  
@@ -99,24 +99,25 @@ Quiz (developer challenge) : Create a proof that an output is the 10th series of
     *Links and literature* :  
 Circom tutorial:   
 https://www.rareskills.io/post/circom-tutorial  
-
 Circom Workshop 1:  
 https://learn.0xparc.org/materials/circom/learning-group-1/circom-1/  
-
 Circom repo:  
 https://github.com/iden3/circom  
-
 Install circom:  
 https://docs.circom.io/getting-started/installation/#installing-circom  
-
 Circom 2 documentation:  
 https://docs.circom.io/  
 
 
 -  ***June 19, 2025*** : Programming : Circom advanced  
-Slideshow :  
+Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/10tGql8KfpnY5gy1JvNvpnVD9eACiUJAKD1aWD-gy2io/edit?usp=sharing)    
 Recording :  
-Meetup:  
+Meetup: Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308137216/)   
+Code : /circom_basic   
+Quiz (developer challenge) :  
+
+    *Links and literature* :  
+
 
 -  ***July 19, 2025*** : Programming : Basics of Noir  
 Slideshow :  
