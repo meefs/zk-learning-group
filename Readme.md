@@ -95,6 +95,7 @@ Recording :  [Link to the recording](https://www.youtube.com/watch?v=6DqvptiEQGM
 Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/307268483/)  
 Code : /circom_basic  
 Quiz (developer challenge) : Create a proof that an output is the 10th series of a Fibonacci like series of two hidden (private) starting elements of the series  
+Solution : /circom_fibonacci   
 
     *Links and literature* :  
 Circom tutorial:   
@@ -107,13 +108,14 @@ Install circom:
 https://docs.circom.io/getting-started/installation/#installing-circom  
 Circom 2 documentation:  
 https://docs.circom.io/  
+Moonmath Manual: https://github.com/LeastAuthority/moonmath-manual   
 
 
 -  ***June 19, 2025*** : Programming : Circom advanced  
 Slideshow :  [Link to the slideshow](https://docs.google.com/presentation/d/10tGql8KfpnY5gy1JvNvpnVD9eACiUJAKD1aWD-gy2io/edit?usp=sharing)    
 Recording :  
 Meetup: Meetup:  [Link to the meetup](https://www.meetup.com/lfdt-hungary/events/308137216/)   
-Code : /circom_basic   
+Code : /circom_advanced   
 Quiz (developer challenge) :  
 
     *Links and literature* :  
